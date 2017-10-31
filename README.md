@@ -68,7 +68,7 @@ my-app
 │   └── manifest.json
 └── src
     └── App.css
-    └── App.js
+    └── index.js
     └── App.test.js
     └── index.css
     └── index.js
