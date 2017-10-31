@@ -1,5 +1,5 @@
 {
-  "name": "react-dev-utils",
+  "name": "caxy-react-dev-utils",
   "version": "4.2.2",
   "description": "Webpack utilities used by Create React App",
   "repository": "davidwnek/create-react-app",

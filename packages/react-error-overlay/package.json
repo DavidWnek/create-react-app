@@ -1,5 +1,5 @@
 {
-  "name": "react-error-overlay",
+  "name": "caxy-react-error-overlay",
   "version": "3.0.2",
   "description": "An overlay for displaying stack frames.",
   "main": "lib/index.js",
