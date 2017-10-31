@@ -1,6 +1,6 @@
 {
   "name": "caxy-react-dev-utils",
-  "version": "4.2.3",
+  "version": "4.2.4",
   "description": "Caxy Forked: Webpack utilities used by Create React App",
   "repository": "davidwnek/create-react-app",
   "license": "MIT",
