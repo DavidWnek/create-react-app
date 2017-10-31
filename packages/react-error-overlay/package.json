@@ -1,7 +1,7 @@
 {
   "name": "caxy-react-error-overlay",
   "version": "3.0.3",
-  "description": "An overlay for displaying stack frames.",
+  "description": "Caxy Forked: An overlay for displaying stack frames.",
   "main": "lib/index.js",
   "scripts": {
     "prepublishOnly": "npm run build:prod && npm test",

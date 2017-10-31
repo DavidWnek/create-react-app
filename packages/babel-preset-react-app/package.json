@@ -1,7 +1,7 @@
 {
   "name": "caxy-babel-preset-react-app",
   "version": "3.1.3",
-  "description": "Babel preset used by Create React App",
+  "description": "Caxy Forked: Babel preset used by Create React App",
   "repository": "davidwnek/create-react-app",
   "license": "MIT",
   "bugs": {

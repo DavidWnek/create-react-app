@@ -1,7 +1,7 @@
 {
   "name": "caxy-eslint-config-react-app",
   "version": "2.0.3",
-  "description": "ESLint configuration used by Create React App",
+  "description": "Caxy Forked: ESLint configuration used by Create React App",
   "repository": "davidwnek/create-react-app",
   "license": "MIT",
   "bugs": {

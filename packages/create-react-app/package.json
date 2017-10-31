@@ -4,7 +4,7 @@
   "keywords": [
     "react"
   ],
-  "description": "Create React apps with no build configuration.",
+  "description": "Caxy Forked: Create React apps with no build configuration.",
   "repository": "davidwnek/create-react-app",
   "license": "MIT",
   "engines": {
