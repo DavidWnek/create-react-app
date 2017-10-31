@@ -2,10 +2,10 @@
   "name": "eslint-config-react-app",
   "version": "2.0.1",
   "description": "ESLint configuration used by Create React App",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "davidwnek/create-react-app",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/davidwnek/create-react-app/issues"
   },
   "files": [
     "index.js"
